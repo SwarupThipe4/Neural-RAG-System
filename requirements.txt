@@ -1,0 +1,7 @@
+langchain
+faiss-cpu
+pandas
+python-dotenv
+streamlit
+sentence-transformers
+requests
